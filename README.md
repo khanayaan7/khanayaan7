@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayaan</h1>
-<h3 align="center">Full Stack Developer | Competitive Programmer | AI Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Competitive Programmer /h3>
 
 ---
 
