@@ -1,60 +1,59 @@
 <h1 align="center">Hi 👋, I'm Ayaan</h1>
-<h3 align="center">Full Stack Developer | Competitive Programmer</h3>
+<h3 align="center">Full Stack Developer | Competitive Programmer | AI Enthusiast</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 MERN Stack Developer  
-- 🧠 Knight on LeetCode  
-- ⭐ 4-Star on CodeChef  
-- ⚡ Strong in Data Structures & Algorithms  
+- 💻 Full Stack Developer  
+- 📚 Strong in Data Structures & Algorithms  
 - 📫 Reach me at: **khanayaanwork@gmail.com**
 
 ---
 
-## 🏆 Competitive Programming Profiles
+## 🏆 Competitive Programming
 
-- 🔵 Codeforces: https://codeforces.com/profile/khanayaan7  
-- 🟡 LeetCode: https://leetcode.com/khanayaan7  
-- 🟤 CodeChef: https://codechef.com/users/khanayaan7  
-- 🟢 GeeksforGeeks: https://auth.geeksforgeeks.org/user/khanayaan7  
+- 🔵 Codeforces (Expert): https://codeforces.com/profile/khanayaan7  
+- 🟡 LeetCode (Guardian): https://leetcode.com/khanayaan7 
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-C • C++ • JavaScript  
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/>
+</p>
 
 ### 🌐 Frontend
-React.js • Redux • Tailwind CSS • HTML • CSS  
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"/>
+</p>
 
 ### ⚙️ Backend
-Node.js • Express.js  
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="40"/>
+</p>
 
-### 🗄 Database
-MongoDB • MySQL  
+### 🗄 Databases
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40"/>
+</p>
 
 ### 🔧 Tools
-Git • GitHub • VS Code  
-
----
-
-## 📌 What I’m Focused On
-
-- Advanced DSA & Problem Solving  
-- Building scalable full-stack apps  
-- Writing clean, production-level code  
-- System Design fundamentals  
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://img.shields.io/badge/Code-Consistent-blue?style=for-the-badge)
-![DSA](https://img.shields.io/badge/DSA-Strong-green?style=for-the-badge)
-![MERN](https://img.shields.io/badge/MERN-Developer-success?style=for-the-badge)
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40"/>
+</p>
 
 ---
 
@@ -64,4 +63,4 @@ Git • GitHub • VS Code
 
 ---
 
-⭐ From Ayaan — Always Learning, Always Building
+⭐ From Ayaan — Building Today, Preparing for Tomorrow
