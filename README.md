@@ -1,66 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ayaan</h1>
-<h3 align="center">Full Stack Developer | Competitive Programmer </h3>
-
----
-
-## 🚀 About Me
-
-- 💻 Full Stack Developer  
-- 📚 Strong in Data Structures & Algorithms  
-- 📫 Reach me at: **khanayaanwork@gmail.com**
-
----
-
-## 🏆 Competitive Programming
-
-- 🔵 Codeforces (Expert): https://codeforces.com/profile/khanayaan7  
-- 🟡 LeetCode (Guardian): https://leetcode.com/khanayaan7 
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Languages
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/>
+  👋 Hi, I'm Ayaan
+
+I am a software developer focused on building scalable web applications and solving algorithmic problems. I primarily work with the MERN stack, developing full-stack applications with clean architecture and efficient REST API design. I also have experience improving testing systems by building and maintaining automation frameworks, which strengthened my focus on writing reliable and maintainable code. I enjoy combining strong problem-solving skills with practical development to create efficient and interactive applications.
+
+My core strengths lie in backend development, data structures, and designing optimized solutions, and I continuously aim to build systems that are both efficient and scalable.
+
 </p>
-
-### 🌐 Frontend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"/>
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="40"/>
-</p>
-
-### 🗄 Databases
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40"/>
-</p>
-
-### 🔧 Tools
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40"/>
-</p>
-
----
-
-## 🤝 Connect With Me
-
-[LinkedIn](https://linkedin.com/in/khanayaan7)
-
----
-
-⭐ From Ayaan — Building Today, Preparing for Tomorrow
