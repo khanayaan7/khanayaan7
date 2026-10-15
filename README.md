@@ -10,8 +10,6 @@
   <a href="https://www.linkedin.com/in/khanayaan7/">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="mailto:khanayaanwork@gmail.com">Email</a>
-  &nbsp;·&nbsp;
-  <a href="https://ayaan-portfolio-sandy.vercel.app/assets/Mohammed-Ayaan-Khan-Resume.pdf?v=5a9d27a653ac">Resume</a>
 </p>
 
 ## About me
